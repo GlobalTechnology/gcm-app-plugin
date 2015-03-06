@@ -1,12 +1,12 @@
-<?php namespace GlobalTechnology\GCMApplication {
+<?php namespace GlobalTechnology\GlobalMeasurements {
 	/*
-	 * Plugin Name: Global Church Movements Application
+	 * Plugin Name: Global Measurements Application
 	 * Plugin URI:  gcx.org
 	 * Description: GCM App
 	 * Author:      Brian Zoetewey
 	 * Author URI:  gcx.org
 	 * Version:     0.0.1
-	 * Text Domain: gcmapp
+	 * Text Domain: gmaapp
 	 * Domain Path: /languages/
 	 * License:     Modified BSD
 	 */

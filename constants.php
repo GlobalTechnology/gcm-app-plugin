@@ -1,32 +1,32 @@
-<?php namespace GlobalTechnology\GCMApplication {
+<?php namespace GlobalTechnology\GlobalMeasurements {
 
 	/**
 	 * Localization Text Domain
 	 * @var string
 	 */
-	const TEXT_DOMAIN = 'gcmapp';
+	const TEXT_DOMAIN = 'gmaapp';
 
 	/**
 	 * Script / Style Prefix
 	 * @var string
 	 */
-	const PREFIX = 'gcmapp-';
+	const PREFIX = 'gmaapp-';
 
 	/**
 	 * Page Slug
 	 * @var string
 	 */
-	const PAGE_SLUG = 'gcm-app';
+	const PAGE_SLUG = 'gma';
 
 	/**
 	 * Plugin Directory
 	 * @var string
 	 */
-	define( 'GlobalTechnology\GCMApplication\PLUGIN_DIR', rtrim( plugin_dir_path( __FILE__ ), \DIRECTORY_SEPARATOR ) );
+	define( 'GlobalTechnology\GlobalMeasurements\PLUGIN_DIR', rtrim( plugin_dir_path( __FILE__ ), \DIRECTORY_SEPARATOR ) );
 
 	/**
 	 * Plugin Directory URL
 	 * @var string
 	 */
-	define( 'GlobalTechnology\GCMApplication\PLUGIN_URL', rtrim( plugin_dir_url( __FILE__ ), '/' ) );
+	define( 'GlobalTechnology\GlobalMeasurements\PLUGIN_URL', rtrim( plugin_dir_url( __FILE__ ), '/' ) );
 }
